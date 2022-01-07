@@ -11,5 +11,12 @@ h2{
  }
  body{
    background-color: grey;
-   
+
+ }
+ 
+ .info{
+   border-style: solid;
+   border-color: black;
+   width: 432px;
+
  }
